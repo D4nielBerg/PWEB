@@ -1,0 +1,19 @@
+#fundo{
+    background-color:#590ea9;
+}
+.centralizar{
+    margin-top: 50px;
+    text-align: center;
+    
+}
+.imagem{
+    border: groove rgba(36,36,36,255) 10px;
+}
+.texto{
+    text-align: center;
+    color:white;
+}
+p{
+    font-family: "arial";
+    font-size:18px;
+}
