@@ -1,0 +1,19 @@
+body{
+    background-color:#B0C4DE;
+}
+.centralizar{
+    text-align: center;
+}
+#imagem{
+    border-color: gray;
+    border-style: groove;
+    border-width: 20px;
+}
+.caixas{
+    width: 600px;
+    border: solid 3px #FF7F50;
+    margin: 10px auto;
+    padding:5px;
+    background-color:#87CEEB;
+    font-family: cursive;
+}
